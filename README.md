@@ -3,4 +3,4 @@
 
 本项目基于 STM32CubeMX 生成 CMake 工程。
 
-若出现错误，请使用 CubeMX 重新生成代码。
+使用前，请使用 CubeMX 重新生成代码。
