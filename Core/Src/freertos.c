@@ -398,7 +398,6 @@ void StartTask_OLED(void *argument)
           break;
       }
     }
-    osDelay(20);
   }
   /* USER CODE END StartTask_OLED */
 }
